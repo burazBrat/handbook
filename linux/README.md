@@ -41,12 +41,6 @@ $ apt remove package
 $ pwd
 ```
 
-### Print working directory
-
-```
-$ pwd
-```
-
 ### List directories
 
 ```
@@ -98,6 +92,77 @@ $ touch file.extension
 $ rm -r rile_or_directory
 ```
 
+# Editing and Viewing Files
+
+### Copy file content
+
+```
+$ cat file.extension
+```
+
+# Chaining Commands
+
+### AND logic in commands (All or none)
+
+```
+$ command1 && command2 && command3
+```
+
+### Or logic in commands (Every true command will be executed)
+
+```
+$ command1 ; command2 ; command3
+```
+
+# Environment Variables
+
+
+### Print env variables
+
+```
+$ printenv variable
+
+$ echo $ variable
+```
+
+### Export command in terminal session
+
+```
+$ export variable=command
+```
+
+# Managing Processes
+
+
+### Process list
+
+```
+$ ps
+```
+
+### Process kill
+
+```
+$ kill PROCESS_ID
+
+$ kill -9 PROCESS_ID
+```
+
+### Find process by port
+
+```
+lsof -i :port
+```
+
+# Managing Users
+
+
+### Command for file permissions 
+
+```
+$ chmod
+```
+
 # CMD Shortcut
 
 ### Search
@@ -106,7 +171,13 @@ $ rm -r rile_or_directory
 Ctrl + R
 ```
 
+# CMD tips
 
+### Command history
+
+```
+$ history
+```
 
 
 
