@@ -71,8 +71,40 @@ $ cd directory_path
 $ cd ~
 ```
 
+# Manipulating Files and Directories
 
 
+### Create directory
+
+```
+$ mkdir directory
+```
+
+### Rename directory
+
+```
+$ mv directory directory_new
+```
+
+### Create file
+
+```
+$ touch file.extension
+```
+
+### Remove file or directory
+
+```
+$ rm -r rile_or_directory
+```
+
+# CMD Shortcut
+
+### Search
+
+```
+Ctrl + R
+```
 
 
 
