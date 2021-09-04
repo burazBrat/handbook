@@ -92,6 +92,18 @@ $ touch file.extension
 $ rm -r rile_or_directory
 ```
 
+### Copying files
+
+```
+cp <source> <destination>
+```
+
+### Moving files
+
+```
+mv <source> <destination>
+```
+
 # Editing and Viewing Files
 
 ### Copy file content
