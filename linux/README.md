@@ -175,6 +175,25 @@ lsof -i :port
 $ chmod
 ```
 
+### Chmod meaning
+
+```
+* 4 stands for "read"
+
+* 2 stands for "write"
+
+* 1 stands for "execute"
+
+* 0 stands for "no permission."
+```
+
+### Chmod examples 
+
+```
+$ chmod 777 myfile
+```
+
+
 # CMD Shortcut
 
 ### Search
