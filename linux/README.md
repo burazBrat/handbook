@@ -59,10 +59,16 @@ $ ls -1 (eg, -1 directories level)
 $ cd directory_path
 ```
 
-### Go in root directory
+### Go to home directory
 
 ```
 $ cd ~
+```
+
+### Go to root directory
+
+```
+$ cd /
 ```
 
 ### Find path by package name
