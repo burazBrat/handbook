@@ -65,6 +65,12 @@ $ cd directory_path
 $ cd ~
 ```
 
+### Find path by package name
+
+```
+$ which package_name
+```
+
 # Manipulating Files and Directories
 
 
@@ -214,6 +220,12 @@ $ chmod 777 myfile
 Ctrl + R
 ```
 
+### Clear
+
+```
+Ctrl + L
+```
+
 # CMD tips
 
 ### Command history
@@ -222,7 +234,54 @@ Ctrl + R
 $ history
 ```
 
+# Network
 
+### Ping
 
+```
+$ ping ip_adress
+```
 
+# Machine/CPU config
 
+### Machine name
+
+```
+$ uname -a
+``` 
+
+### Hard drives
+
+```
+$ blkid
+```
+
+### Show process
+
+```
+$ top
+```
+
+### Disk space
+
+```
+$ df
+```
+
+### Devices
+
+```
+$ lsusb
+```
+
+### Restart CPU
+
+```
+$ shutdown -r now
+```
+
+### Shutdown CPU
+
+```
+$ shutdown -h now
+```
