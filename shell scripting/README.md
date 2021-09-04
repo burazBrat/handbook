@@ -23,6 +23,9 @@ $ ./myscript.sh
 ### Declaration of dialect (Bash declaration)
 
 ```
-$ which bash (add put path in the begging od the script)
+$ which bash (add put path in the beginning od the script)
 #! path
+
+example: #! /usr/bin/bash
+
 ```
