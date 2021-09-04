@@ -137,10 +137,22 @@ $ printenv variable
 $ echo $ variable
 ```
 
-### Export command in terminal session
+### Export variable in terminal session
 
 ```
 $ export variable=command
+```
+
+### Add (append) variable to .bashrc
+
+```
+$ echo variable=value >> .bashrc
+```
+
+### Reload .bashrc file
+
+```
+$ source .bashrc
 ```
 
 # Managing Processes
