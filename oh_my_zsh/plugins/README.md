@@ -17,11 +17,11 @@ $ someting else
 > Manual installation required
 
 
-## 2. web-search
+## 2. sudo
 
-### Web search through terminal
+### Adding sudo command on the beginning of the command
 
-```google serached_text```
+```Escape x 2```
 
 
 ## 3. web-search
@@ -31,11 +31,44 @@ $ someting else
 ```google serached_text```
 
 
+## 4. copydir
+
+### Copying current terminal directory
 
 
+## 5. copyfile
+
+### Copy content of the file in clipboard
 
 
+## 6. copybuffer
 
+### Copy current terminal command in clipboard
+
+
+## 7. dirhistory
+
+### Moving from folder to folder
+
+
+## 8. zsh_reload
+
+### Reload zsh configuration
+
+```src```
+
+
+## 9. history
+
+### Searching history of the command
+
+```hsi aws```
+
+## 10. pp_json
+
+### Show formatted JSON in terminal
+
+```command | pp_json```
 
 
 ## All Zsh plugins
