@@ -8,15 +8,27 @@ $ nano ~/.zshrc
 $ someting else
 ```
 
-## zsh-autosuggestion
+## 1. zsh-autosuggestion
+
+### Command autosuggestion
+
+```Just type in command line, and plugin will show autosuggestion``` 
 
 > Manual installation required
 
-### Purpose: Command autosuggestion
 
-### Usage: Just type in command line, and plugin will show autosuggestion 
+## 2. web-search
+
+### Web search through terminal
+
+```google serached_text```
 
 
+## 3. web-search
+
+### Web search through terminal
+
+```google serached_text```
 
 
 
@@ -28,6 +40,4 @@ $ someting else
 
 ## All Zsh plugins
 
-```
-https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
-```
+```https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins```
